@@ -1,0 +1,40 @@
+.popup {
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    place-content: center;
+}
+
+.popup-contents {
+    background-color: white;
+    width: 500px;
+    height: 320px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    border-radius: 4px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.btn-ajuste {
+    width: 33%;
+    margin-top: 10px;
+}
+
+h4 {
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
